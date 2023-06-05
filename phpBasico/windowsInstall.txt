@@ -1,0 +1,4 @@
+instalar XAMPP con el proceso tipico de instalar en windows.
+en el panel de control le damos start al Apache.
+
+XAMPP es un empaquetador que trae varias cosas para poder usar php y muchas cosas más

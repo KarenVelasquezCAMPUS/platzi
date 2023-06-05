@@ -1,0 +1,20 @@
+USUARIOS DE XAMPP 
+    para ejecutar los archivos de php con xampp debemos de abrir primero el xampp y activar el apache y escribir localhost en el navegador. 
+
+USUARIOS LINUX 
+
+    // php index.php
+        para ver en terminal lo que esta escrito en el archivo (como un cat)
+    // cd /var/www/html 
+        entrar al las carpetas donde se esta ejecutando el php 
+    // ls -al 
+        ver los permisos de la carpeta 
+    // sudo chmod 777 nombre_archivo 
+        cambiar los permisos de la carpeta
+
+
+    (APACHE SE EJECUTA POR DEFECTO EN LINUX)
+    si el apache no se ejecuta por defecto en nuestro pc (wsl) debemos de hacer lo siguiente:
+        sudo systemctl start apache2
+        si da error del host down, hacer lo siguiente:
+        sudo /etc/init.d/apache2 start
