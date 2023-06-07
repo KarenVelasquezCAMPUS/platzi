@@ -1,0 +1,6 @@
+· no es obligatorio cerrar la etiqueta de cierre de php si se va escribir solo código php.
+· para imprimir en pantalla es con echo
+· siempre se debe de cerrar con un ;
+· para ver el echo en la terminal toca digitar en terminal pgp nombreArchivo.php
+· espacio en terminal \n, el espacio en el navegador es un <br> 
+· concatenar con punto 
