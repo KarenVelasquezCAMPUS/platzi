@@ -1,0 +1,70 @@
+**Temas ya vistos
+    ciclos
+    condiciones 
+    objetos
+    variables**
+
+- Funciones
+    Las funciones se usan para evitar escribir algo repetitivamente, para usar una función hay que hacer dos cosas:
+
+    ·
+    ·
+
+    estructura:
+    function suma (num1, num2){
+        return num1+num2;
+    }
+
+        num1 y num2, en la declaracion de la suma es un parametro.
+
+    arg -> argumento
+
+    * Función por declaración: permite declarar una función que existirá a lo largo de todo el código:
+        function saludar() {
+        return "Hola";
+        }
+
+        saludar(); // 'Hola'
+        typeof saludar; // 'function'
+
+    * Función por expresión
+
+    * Función arrow
+    alternativa de las función de expresión
+
+    * Función autoejecutable
+
+        dos ojos y un giño
+
+- Ternarios
+    ? -> if
+    : -> else (más corto)
+    ?: -> ifelse
+
+hosting:alojamiento de la web
+hoisting: rol que cumple cada sintaxis del lenguaje de javascript
+
+! las variables son las que tienen más poder en la sintaxis de js, después funciones pero las declaradas.
+
+- Callback
+    función que invoca una función dentro de otra función 
+
+// fa, es una función landa o anonima, par aque guarde la variable 
+
+! no es necesario colocar callback en la función pero se coloca para demostrar el parametro
+
+join -> para cambiar los separadores de los parametros
+
+- Clausulas
+    vienen de las funciones autoejecutables, se usa oara fragmentos de codicos a tema especifico, aislar aún más el código. Función autoejecutable que lo guarda una variable 
+
+- Ambito lexico this
+
+    · apply, funciona con arrays
+    · call, llama a un método de un objeto, sustituyendo otro objeto por el objeto actual.
+
+* Modularizacion
+
+any -> cualquier data
+void -> vacio
+T[] -> del dato pasado devuelve algo

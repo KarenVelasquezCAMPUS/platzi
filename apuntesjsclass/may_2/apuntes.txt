@@ -1,0 +1,52 @@
+() -> declarar las dimensiones
+el que se usa más es el de la lista2
+
+con un array puedo traer los datos, modificar datos 
+
+
+PROTOTIPADOS
+unshift -> shift lo pone detras (pone la info al principio), es como un historial. !es más recomendado utilizar unshift y hay que tener en cuenta que el primero en entrar el ultimo del salir
+.unshift para agregar datos.
+push -> lo empuja y pone la info al final
+reduce -> reduce una funcion y la compara sumar una array
+
+length -> cuenta caracteres, espacios en blancos
+
+! en js todo son objetos 
+
+[] para números
+. para letras
+
+null -> mecionamos el valor, es falso
+undefined -> no está definido, es el que salta entre datos, es falso
+
+typeof -> sacar el tipo de dato
+
+diferencia de un ciclo, bucle e iteracion 
+ciclo -> nosotros lo controlamos.
+bucle -> no se controla, funciona solo con una condicion.
+iteracion -> recorre y busca la información hasta cumplir con la iteración
+
+! es recomendable no mezclar arrays con objetos
+
+keys es el identificador
+
+for of -> dentro
+for in -> afuera, cuenta el indice 
+
+!en la estracion de datos tipo encuestas es recomendable trabajar con objeto y dentro de el un array
+    ejm: let info = {
+            direccion:[
+                {
+                    barrio: "aaa"
+                    numero: 11
+                },
+                {
+                    barrio: "bbb"
+                    numero: 22
+                }
+            ]
+        }
+
+
+!es mejor trabajar con unshift y objetos ·

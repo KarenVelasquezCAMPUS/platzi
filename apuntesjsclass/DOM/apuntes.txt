@@ -1,0 +1,9 @@
+¿Qué es el DOM? Modelo de objetos de documentos(Document Object Model): es una estructura de representación de documentos html, todo elemento html tiene su equivalente representación en el DOM //todo lo que se hace en el HTML está en el DOM//.
+El DOM es de una API del navegador, con JavaScript se accede a ello. Con el DOM puedo cambiar atributos, accederlo, modificarlo, tmb en hojas de estilo y también cambiar el texto.
+
+Estructura:
+                Inicio: Document
+                        Element <html>
+            element <head>         element <body>
+            element <title>
+            text <a simple page>

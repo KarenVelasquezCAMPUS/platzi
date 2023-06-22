@@ -1,0 +1,10 @@
+¿Qué es un objeto literal?
+
+let obj = {
+
+}
+
+window -> ventana de la consola del navegador.
+this -> puede crear un bucle inifinito.
+        se usa dentro de una función, o si no no ejecuta 
+        

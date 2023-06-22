@@ -1,0 +1,23 @@
+npm install -g json-server: para no volver instalar json server con los comandos aprendidos ayer, con este comando solo se instala una vez.
+
+i le instala en en proyecto y g global
+
+· json-server -w db.json -p 4001: comando para ver el json. Si no sirve el 4001 se escribe números superiores a este. (! este comando que se tiene que aprender)
+
+Formularios DOM:
+
+
+    // e es lo que envía, informa
+    addEventListener: evento de escucha 
+    // submitter (chismoso)
+
+    en el DOMStringMap, se muestra en consola con un data-
+
+// LOGICA DE OBJETOS
+    FILTRAR  CON LA URL
+
+    documentacion:
+    https://github.com/typicode/json-server
+    hasta homepage
+
+    e.target es todo el formulario

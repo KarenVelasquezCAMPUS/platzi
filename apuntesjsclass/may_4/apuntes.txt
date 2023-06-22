@@ -1,0 +1,18 @@
+JSON
+
+ejecutar JavaScript en el backend
+    -> nos indica que version estamos utilizandao 
+    desistalar un version nvm uninstall
+    node --version, para ver la version  que estamos utilizando
+
+comandos:
+    nvm list-remote
+    nvm install 18.16.0
+
+    npm i json-server
+    npm init -y
+    npm run server
+
+    curl -X POST [link] -H "Content-Type: application/json" -d '{"id" : -, "name": "---"}'
+
+//estudiar json y fetch

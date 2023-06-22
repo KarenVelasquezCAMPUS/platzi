@@ -1,0 +1,36 @@
+- declarar variables
+    let -> local -- SCOPE
+    var -> global -- GLOBAL
+    // script cadena de comandos
+
+- bool 
+    true        false
+    [] {}   undefined, null
+
+- ciclos
+    for
+    for in -> recore los indices de un array, iterar
+    for of -> modifica
+    for each -> for in for of
+    map             
+    filter  -> filtrar
+    while
+
+- length
+    cantidad de datos que hay
+
+// ; del for es obligatorio
+
+// forEach devuelve 3 resultados: elvalor, el id y el array (duplicado), solo funciona para lops arrays enumerados
+
+- CallBack: funcion que se pasa como un parametro
+
+!! Los Arrays en JS son objetos.
+
+· object.values, saca los valores del objetos, devuelve un array
+· object.keys, saca los identificadores del objeto, devuelve las keys
+· object.entries, devuelve una MATRIZ de pares clave-valor de propiedad (ejemplo Christian)
+
+//0 keys, 1 nombres
+
+// . {} para objetos [] para arrays
